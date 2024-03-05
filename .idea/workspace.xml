@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca9c2d8c-d2b2-47c2-b5b5-cc6c6faca56d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/Ciclos/FuntionalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/Ciclos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/Clase1Practica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/ClasesYObjetos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/ClasesYObjetos/Personas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/EjemploLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/ExeceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase2Acciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase2Atributos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/estructurasCiclicasyControl/SiSiNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/estructurasDeDatos/Atreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/herencia/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/herencia/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/herencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/ps/herencia/Veiculo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cSqlzFapQau0A7rhc0kyVmtEJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Atreglos.executor": "Run",
+    "Application.Clase1Practica.executor": "Run",
+    "Application.EjemploLog.executor": "Run",
+    "Application.Ejercicio2Practica_Acciones.executor": "Run",
+    "Application.Ejercicios.executor": "Run",
+    "Application.ExeceptionClass.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SiSiNo.executor": "Run",
+    "Application.TrabajoEnClase1.executor": "Run",
+    "Application.TrabajoEnClase3.executor": "Run",
+    "Application.TrabajoEnClase4.executor": "Run",
+    "Application.TrabajoEnClase5.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mateo/IdeaProjects/C22 - copia",
+    "onboarding.tips.debug.path": "C:/Users/mateo/IdeaProjects/C22/src/main/java/co/com/ps/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9c2d8c-d2b2-47c2-b5b5-cc6c6faca56d" name="Changes" comment="" />
+      <created>1708115488106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708115488106</updated>
+    </task>
+    <servers />
+  </component>
+</project>
